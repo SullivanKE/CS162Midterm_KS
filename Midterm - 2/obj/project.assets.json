@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Foundry Development\\Midterm\\Midterm\\Midterm - 1.csproj",
-      "projectName": "Midterm - 1",
-      "projectPath": "D:\\Foundry Development\\Midterm\\Midterm\\Midterm - 1.csproj",
+      "projectUniqueName": "D:\\Foundry Development\\Midterm\\Midterm - 2\\Midterm - 2.csproj",
+      "projectName": "Midterm - 2",
+      "projectPath": "D:\\Foundry Development\\Midterm\\Midterm - 2\\Midterm - 2.csproj",
       "packagesPath": "C:\\Users\\Katie\\.nuget\\packages\\",
-      "outputPath": "D:\\Foundry Development\\Midterm\\Midterm\\obj\\",
+      "outputPath": "D:\\Foundry Development\\Midterm\\Midterm - 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

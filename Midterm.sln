@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32407.343
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midterm", "Midterm\Midterm.csproj", "{BFCE9291-99C0-4FA5-92CD-3572EB213C59}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midterm - 1", "Midterm\Midterm - 1.csproj", "{BFCE9291-99C0-4FA5-92CD-3572EB213C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Midterm - 2", "Midterm - 2\Midterm - 2.csproj", "{8035C327-DD15-4DD6-BBFC-2B05FAAC533B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{BFCE9291-99C0-4FA5-92CD-3572EB213C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BFCE9291-99C0-4FA5-92CD-3572EB213C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BFCE9291-99C0-4FA5-92CD-3572EB213C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8035C327-DD15-4DD6-BBFC-2B05FAAC533B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8035C327-DD15-4DD6-BBFC-2B05FAAC533B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8035C327-DD15-4DD6-BBFC-2B05FAAC533B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8035C327-DD15-4DD6-BBFC-2B05FAAC533B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
