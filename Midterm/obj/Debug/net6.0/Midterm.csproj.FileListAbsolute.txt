@@ -1,0 +1,15 @@
+D:\Foundry Development\Midterm\Midterm\bin\Debug\net6.0\Midterm.exe
+D:\Foundry Development\Midterm\Midterm\bin\Debug\net6.0\Midterm.deps.json
+D:\Foundry Development\Midterm\Midterm\bin\Debug\net6.0\Midterm.runtimeconfig.json
+D:\Foundry Development\Midterm\Midterm\bin\Debug\net6.0\Midterm.dll
+D:\Foundry Development\Midterm\Midterm\bin\Debug\net6.0\Midterm.pdb
+D:\Foundry Development\Midterm\Midterm\obj\Debug\net6.0\Midterm.csproj.AssemblyReference.cache
+D:\Foundry Development\Midterm\Midterm\obj\Debug\net6.0\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foundry Development\Midterm\Midterm\obj\Debug\net6.0\Midterm.AssemblyInfoInputs.cache
+D:\Foundry Development\Midterm\Midterm\obj\Debug\net6.0\Midterm.AssemblyInfo.cs
+D:\Foundry Development\Midterm\Midterm\obj\Debug\net6.0\Midterm.csproj.CoreCompileInputs.cache
+D:\Foundry Development\Midterm\Midterm\obj\Debug\net6.0\Midterm.dll
+D:\Foundry Development\Midterm\Midterm\obj\Debug\net6.0\refint\Midterm.dll
+D:\Foundry Development\Midterm\Midterm\obj\Debug\net6.0\Midterm.pdb
+D:\Foundry Development\Midterm\Midterm\obj\Debug\net6.0\Midterm.genruntimeconfig.cache
+D:\Foundry Development\Midterm\Midterm\obj\Debug\net6.0\ref\Midterm.dll
